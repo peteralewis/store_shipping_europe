@@ -1,7 +1,5 @@
-store_shipping_europe
-=====================
-
 Expresso Store Shipping rule for Europe
+=====================
 
 Provides additional selection of "Europe" in shipping rules to simplify general european 
 location targetting for shipping pricing. This replaces the default shipping plugin as it 
